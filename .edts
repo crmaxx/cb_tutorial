@@ -1,0 +1,2 @@
+:lib-dirs '("~/Work/Erlang/ChicagoBoss/deps")
+:start-command "./init-dev.sh"
